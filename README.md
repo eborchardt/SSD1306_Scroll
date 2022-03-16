@@ -1,9 +1,9 @@
 # SSD1306_Scroll
 An example of scrolling a long message on SSD1306 using Adafruit_SSD1306
 
-This is largely based on a YouTube video here: https://www.youtube.com/watch?v=sTYPuDMPva
+This is largely based on a YouTube video here: https://youtu.be/sTYPuDMPva8
 
-I modified it using a function to make it more useful for my needs. 
+I couldn't find this shared anywhere, but I've modified it to use a function in order to make it more useful for my needs. 
 
 Using: <br>
 ESP32-DEVKIT-V1 <br>
