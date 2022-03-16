@@ -5,6 +5,6 @@ This is largely based on a YouTube video here: https://www.youtube.com/watch?v=s
 
 I modified it using a function to make it more useful for my needs. 
 
-Using:
+Using: <br>
 ESP32-DEVKIT-V1 <br>
 SSD1306 OLED 128x32 i2c
