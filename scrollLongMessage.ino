@@ -29,7 +29,7 @@ void loop() {
 }
 
 void scrollText(char message[]) {
-    minX = -12 * strlen(message); //12 = 6 pixels/character * text size 2
+  minX = -12 * strlen(message); //12 = 6 pixels/character * text size 2
   display.clearDisplay();
   display.setTextSize(2);
   display.setCursor(x,7);
