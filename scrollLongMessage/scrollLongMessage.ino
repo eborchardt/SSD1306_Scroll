@@ -19,7 +19,6 @@ void setup() {
   display.setTextColor(WHITE);
   display.setTextWrap(false);
   x = display.width();
-//  minX = -12 * strlen(message); //12 = 6 pixels/character * text size 2
 }
 
 void loop() {
